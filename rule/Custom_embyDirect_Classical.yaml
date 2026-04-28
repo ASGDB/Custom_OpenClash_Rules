@@ -2,27 +2,107 @@
 # TOTAL: 597
 
 payload:
-  - DOMAIN-SUFFIX,a.wedg.top
-  - DOMAIN-SUFFIX,tt.wedg.top
-  - DOMAIN-SUFFIX,saodu6.top
-  - DOMAIN-SUFFIX,saodu6.cn
-  - DOMAIN-SUFFIX,5165163.xyz
-  - DOMAIN-SUFFIX,ty302.saodu.wang
-  - DOMAIN-SUFFIX,iemby.cn 
-  - DOMAIN-SUFFIX,114514.fuckme.pushgoodcloud.com
-  - DOMAIN-SUFFIX,gy.emby.yun:4443
+  - DOMAIN-SUFFIX,029902.xyz
+  - DOMAIN-SUFFIX,100km.top
   - DOMAIN-SUFFIX,101514.xyz
+  - DOMAIN-SUFFIX,114514.fuckme.pushgoodcloud.com
+  - DOMAIN-SUFFIX,5165163.xyz
+  - DOMAIN-SUFFIX,52pan.top
+  - DOMAIN-SUFFIX,6492.kstore.space
   - DOMAIN-SUFFIX,707909.xyz
+  - DOMAIN-SUFFIX,a.376797.dpdns.org
+  - DOMAIN-SUFFIX,a.l0323.top
+  - DOMAIN-SUFFIX,a.l0323.top.eo.dnse2.com
+  - DOMAIN-SUFFIX,a.wedg.top
+  - DOMAIN-SUFFIX,api.cloudflare.com
+  - DOMAIN-SUFFIX,api.hgyx.vip
+  - DOMAIN-SUFFIX,attemptd.work
+  - DOMAIN-SUFFIX,audiobook.mefun.org
+  - DOMAIN-SUFFIX,baoer.org.cn
+  - DOMAIN-SUFFIX,bitbucket.org
+  - DOMAIN-SUFFIX,bp.tvbox.cam
+  - DOMAIN-SUFFIX,caimincun.com
+  - DOMAIN-SUFFIX,catvod.com
   - DOMAIN-SUFFIX,ccyu.ccwu.cc
+  - DOMAIN-SUFFIX,cf.xgua.de
+  - DOMAIN-SUFFIX,chuanshuo.77blog.cn
+  - DOMAIN-SUFFIX,danmu.15253555.xyz
+  - DOMAIN-SUFFIX,digicert.com
+  - DOMAIN-SUFFIX,download.kstore.space
+  - DOMAIN-SUFFIX,dp.sxtv.top
+  - DOMAIN-SUFFIX,dpeak.cn
+  - DOMAIN-SUFFIX,dxawi.github.io
+  - DOMAIN-SUFFIX,e.erw.cc
+  - DOMAIN-SUFFIX,emby-cf.cyclince.xyz
+  - DOMAIN-SUFFIX,emby-hk.cyclince.xyz
+  - DOMAIN-SUFFIX,emby.yun
+  - DOMAIN-SUFFIX,embyty.entertang.work
+  - DOMAIN-SUFFIX,emusica.91bp.dpdns.org
+  - DOMAIN-SUFFIX,epg.112114.xyz
+  - DOMAIN-SUFFIX,epg.136605.xyz
+  - DOMAIN-SUFFIX,epg.51zmt.top
+  - DOMAIN-SUFFIX,epg.zsdc.eu.org
+  - DOMAIN-SUFFIX,fakamiao.top
+  - DOMAIN-SUFFIX,肥猫.com
+  - DOMAIN-SUFFIX,fmys.top
+  - DOMAIN-SUFFIX,gh-proxy.com
+  - DOMAIN-SUFFIX,gh-proxy.org
+  - DOMAIN-SUFFIX,ghproxy.cn
+  - DOMAIN-SUFFIX,gitee.com
+  - DOMAIN-SUFFIX,git.acwing.com
+  - DOMAIN-SUFFIX,github.15253555.xyz
+  - DOMAIN-SUFFIX,github.moeyy.xyz
+  - DOMAIN-SUFFIX,gy.emby.yun
+  - DOMAIN-SUFFIX,hb.小虎斑.site
+  - DOMAIN-SUFFIX,hb.xyyh.onlin
+  - DOMAIN-SUFFIX,hcaptcha.com
+  - DOMAIN-SUFFIX,hncdcenter.com
+  - DOMAIN-SUFFIX,hnktk.com
+  - DOMAIN-SUFFIX,home.jundie.top
+  - DOMAIN-SUFFIX,hucongrong.web3v.work
+  - DOMAIN-SUFFIX,iemby.cn
+  - DOMAIN-SUFFIX,info.us.kg
+  - DOMAIN-SUFFIX,jihulab.com
+  - DOMAIN-SUFFIX,jinridengzhou.com
+  - DOMAIN-SUFFIX,live.emos.best
+  - DOMAIN-SUFFIX,lrc.makifx.com
+  - DOMAIN-SUFFIX,meowtv.cn
+  - DOMAIN-SUFFIX,music.28.al
+  - DOMAIN-SUFFIX,music.mefun.org
+  - DOMAIN-SUFFIX,mzjk.top
+  - DOMAIN-SUFFIX,nangua.de
+  - DOMAIN-SUFFIX,qpcoupon.com
+  - DOMAIN-SUFFIX,qunhui.958565.xyz
+  - DOMAIN-SUFFIX,saodu6.cn
+  - DOMAIN-SUFFIX,saodu6.top
+  - DOMAIN-SUFFIX,shangfotong.com
+  - DOMAIN-SUFFIX,szyyds.cn
+  - DOMAIN-SUFFIX,tt.wedg.top
+  - DOMAIN-SUFFIX,tv.laohu.cool
+  - DOMAIN-SUFFIX,tv.nxog.top
+  - DOMAIN-SUFFIX,tvbox.王二小放牛娃.top
+  - DOMAIN-SUFFIX,ty302.saodu.wang
+  - DOMAIN-SUFFIX,tyemby.klplay.top
+  - DOMAIN-SUFFIX,unpkg.com
+  - DOMAIN-SUFFIX,wannengshibie.com
+  - DOMAIN-SUFFIX,www.饭太硬.com
+  - DOMAIN-SUFFIX,www.mpanso.com
+  - DOMAIN-SUFFIX,www.yingm.cc
+  - DOMAIN-SUFFIX,xhztv.top
+  - DOMAIN-SUFFIX,xn--8owq8u.com
+  - DOMAIN-SUFFIX,yinhai.aiinyue.com
+  - DOMAIN-SUFFIX,yydsys.netlify.app
+  - DOMAIN-SUFFIX,ztha.top
+  - DOMAIN-SUFFIX,zthaa.top
+  - DOMAIN-SUFFIX,我不是.肥猫.live
+  - DOMAIN-SUFFIX,我不是.摸鱼儿.com
+  - DOMAIN-SUFFIX,我不是.摸鱼儿.top
+  - DOMAIN-SUFFIX,毒盒.com
   - DOMAIN-SUFFIX,mwp.bydsb.cc.cd
   - DOMAIN-SUFFIX,mwp.cnmbyd.de5.net
   - DOMAIN-SUFFIX,mwp.cnmbyd.xyz
   - DOMAIN-SUFFIX,mwp.fw1.de5.net
   - DOMAIN-SUFFIX,mwp.sbcnm.us.ci
-  - DOMAIN-SUFFIX,younoyes.com
-  - DOMAIN-SUFFIX,emby-cf.cyclince.xyz 
-  - DOMAIN-SUFFIX,emby-hk.cyclince.xyz 
-  - DOMAIN-SUFFIX,dpeak.cn
-  - DOMAIN-SUFFIX,cf.xgua.de
+  - IP-CIDR,114.66.50.241/32,no-resolve
 
 
