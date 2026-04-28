@@ -66,6 +66,13 @@ payload:
   - DOMAIN-SUFFIX,stream-1.sadchicktv.com
   - DOMAIN-SUFFIX,speedtest-peppapig.apple-cdn.net
   - DOMAIN-SUFFIX,302.zhousanwan.xyz
+  - DOMAIN-SUFFIX,ctyun.cn
+  - DOMAIN-SUFFIX,ctyunxs.cn
+  - DOMAIN-SUFFIX,cloudcube.telecomjs.com
+  - DOMAIN-SUFFIX,cloudcube.wuxi.cn
+  - DOMAIN-SUFFIX,gdtelecom-qy-hncsfy-person.shusheng1.mini189.cn
+  - DOMAIN-SUFFIX,media.emby.pro
+  - DOMAIN-SUFFIX,xxlb.net
   - DOMAIN-SUFFIX,wedg.top
   - DOMAIN-SUFFIX,mobaiemby.site
   - DOMAIN-SUFFIX,digimon.ink
