@@ -62,6 +62,7 @@ payload:
   - DOMAIN-SUFFIX,ebs.digimon.ink
   - DOMAIN-SUFFIX,emby.sl.al
   - DOMAIN-SUFFIX,emby.dnscf.dpdns.org
+  - DOMAIN-SUFFIX,emby.gousen.cc.cd
   - IP-CIDR,188.172.228.65,no-resolve
   - IP-CIDR,138.68.236.33,no-resolve
   - DOMAIN-SUFFIX,freestream.startspoint.com
