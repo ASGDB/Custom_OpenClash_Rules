@@ -1,2 +1,13 @@
 # SOURCE: Custom_embyDirect_Classical
 # TOTAL: 597
+
+payload:
+  - DOMAIN-KEYWORD,m-team
+  - DOMAIN-KEYWORD,quickconnect
+  - DOMAIN-KEYWORD,synology
+  - DOMAIN-SUFFIX,00333118.com
+  - DOMAIN-SUFFIX,0044696.com
+  - DOMAIN-SUFFIX,03241119.xyz
+  - DOMAIN-SUFFIX,0734cn.top
+  - DOMAIN-SUFFIX,112114.xyz
+  - DOMAIN-SUFFIX,115cdn.de
