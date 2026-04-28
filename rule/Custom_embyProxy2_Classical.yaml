@@ -1,4 +1,4 @@
-# SOURCE: Custom_embyDirect_Classical
+# SOURCE: 80/443
 # TOTAL: 597
 
 payload:
@@ -53,9 +53,17 @@ payload:
   - DOMAIN-SUFFIX,cn2gias.uk
   - DOMAIN-SUFFIX,lyrebirdemby.online
   - DOMAIN-SUFFIX,play.chilledmelon.com
+  - DOMAIN-SUFFIX,zhousanwan.xyz
+  - DOMAIN-SUFFIX,ciallo.party
+  - DOMAIN-SUFFIX,doudou.pet
+  - DOMAIN-SUFFIX,hohai.eu.org
+  - DOMAIN-SUFFIX,bangumi.ca
+  - DOMAIN-SUFFIX,nijigem.by
   - IP-CIDR,188.172.228.65,no-resolve
   - IP-CIDR,138.68.236.33,no-resolve
   - DOMAIN-SUFFIX,freestream.startspoint.com
   - DOMAIN-SUFFIX,stream-1.sadchicktv.com
+  - DOMAIN-SUFFIX,speedtest-peppapig.apple-cdn.net
+  - DOMAIN-SUFFIX,302.zhousanwan.xyz
   - DOMAIN-SUFFIX,wedg.top
   - DOMAIN-SUFFIX,mobaiemby.site
