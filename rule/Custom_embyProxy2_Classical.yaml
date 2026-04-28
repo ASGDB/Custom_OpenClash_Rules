@@ -59,6 +59,7 @@ payload:
   - DOMAIN-SUFFIX,hohai.eu.org
   - DOMAIN-SUFFIX,bangumi.ca
   - DOMAIN-SUFFIX,nijigem.by
+  - DOMAIN-SUFFIX,ebs.digimon.ink
   - IP-CIDR,188.172.228.65,no-resolve
   - IP-CIDR,138.68.236.33,no-resolve
   - DOMAIN-SUFFIX,freestream.startspoint.com
@@ -67,3 +68,4 @@ payload:
   - DOMAIN-SUFFIX,302.zhousanwan.xyz
   - DOMAIN-SUFFIX,wedg.top
   - DOMAIN-SUFFIX,mobaiemby.site
+  - DOMAIN-SUFFIX,digimon.ink
