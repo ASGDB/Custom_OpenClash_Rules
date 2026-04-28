@@ -1,6 +1,5 @@
 # SOURCE: Custom_embyDirect_Classical
-# TOTAL: 597
-
+# TOTAL: 11
 payload:
   - SRC-IP-CIDR,192.168.110.50/31
   - SRC-IP-CIDR,192.168.110.52/30
