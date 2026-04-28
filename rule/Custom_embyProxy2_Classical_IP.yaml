@@ -1,0 +1,6 @@
+# SOURCE: e80/443
+# TOTAL: 597
+
+payload:
+  - IP-CIDR,188.172.228.65,no-resolve
+  - IP-CIDR,138.68.236.33,no-resolve
