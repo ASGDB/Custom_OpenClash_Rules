@@ -2,12 +2,27 @@
 # TOTAL: 597
 
 payload:
-  - DOMAIN-KEYWORD,m-team
-  - DOMAIN-KEYWORD,quickconnect
-  - DOMAIN-KEYWORD,synology
-  - DOMAIN-SUFFIX,00333118.com
-  - DOMAIN-SUFFIX,0044696.com
-  - DOMAIN-SUFFIX,03241119.xyz
-  - DOMAIN-SUFFIX,0734cn.top
-  - DOMAIN-SUFFIX,112114.xyz
-  - DOMAIN-SUFFIX,115cdn.de
+  - DOMAIN-SUFFIX,a.wedg.top
+  - DOMAIN-SUFFIX,tt.wedg.top
+  - DOMAIN-SUFFIX,saodu6.top
+  - DOMAIN-SUFFIX,saodu6.cn
+  - DOMAIN-SUFFIX,5165163.xyz
+  - DOMAIN-SUFFIX,ty302.saodu.wang
+  - DOMAIN-SUFFIX,iemby.cn 
+  - DOMAIN-SUFFIX,114514.fuckme.pushgoodcloud.com
+  - DOMAIN-SUFFIX,gy.emby.yun:4443
+  - DOMAIN-SUFFIX,101514.xyz
+  - DOMAIN-SUFFIX,707909.xyz
+  - DOMAIN-SUFFIX,ccyu.ccwu.cc
+  - DOMAIN-SUFFIX,mwp.bydsb.cc.cd
+  - DOMAIN-SUFFIX,mwp.cnmbyd.de5.net
+  - DOMAIN-SUFFIX,mwp.cnmbyd.xyz
+  - DOMAIN-SUFFIX,mwp.fw1.de5.net
+  - DOMAIN-SUFFIX,mwp.sbcnm.us.ci
+  - DOMAIN-SUFFIX,younoyes.com
+  - DOMAIN-SUFFIX,emby-cf.cyclince.xyz 
+  - DOMAIN-SUFFIX,emby-hk.cyclince.xyz 
+  - DOMAIN-SUFFIX,dpeak.cn
+  - DOMAIN-SUFFIX,cf.xgua.de
+
+
