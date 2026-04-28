@@ -62,8 +62,6 @@ payload:
   - DOMAIN-SUFFIX,emby.sl.al
   - DOMAIN-SUFFIX,emby.dnscf.dpdns.org
   - DOMAIN-SUFFIX,emby.gousen.cc.cd
-  - IP-CIDR,188.172.228.65,no-resolve
-  - IP-CIDR,138.68.236.33,no-resolve
   - DOMAIN-SUFFIX,freestream.startspoint.com
   - DOMAIN-SUFFIX,stream-1.sadchicktv.com
   - DOMAIN-SUFFIX,speedtest-peppapig.apple-cdn.net
