@@ -61,6 +61,7 @@ payload:
   - DOMAIN-SUFFIX,emby.sl.al
   - DOMAIN-SUFFIX,emby.dnscf.dpdns.org
   - DOMAIN-SUFFIX,emby.gousen.cc.cd
+  - DOMAIN-SUFFIX,zzm.li
   - DOMAIN-SUFFIX,freestream.startspoint.com
   - DOMAIN-SUFFIX,stream-1.sadchicktv.com
   - DOMAIN-SUFFIX,speedtest-peppapig.apple-cdn.net
