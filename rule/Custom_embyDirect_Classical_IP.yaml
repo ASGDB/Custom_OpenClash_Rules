@@ -1,4 +1,4 @@
 # SOURCE: Custom_embyDirect_Classical
 # TOTAL: 11
 payload:
-  - 'IP-CIDR,114.66.50.241/32,no-resolve'
+  - IP-CIDR,114.66.50.241/32,no-resolve
