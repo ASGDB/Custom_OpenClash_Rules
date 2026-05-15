@@ -66,6 +66,7 @@ payload:
   - DOMAIN-SUFFIX,hgemby.qzz.io
   - DOMAIN-SUFFIX,n150.asia
   - DOMAIN-SUFFIX,miorina.com
+  - DOMAIN-SUFFIX,fastcdn.dpdns.org
   - DOMAIN-SUFFIX,freestream.startspoint.com
   - DOMAIN-SUFFIX,stream-1.sadchicktv.com
   - DOMAIN-SUFFIX,speedtest-peppapig.apple-cdn.net
