@@ -1,0 +1,7 @@
+# Generated from rule/4gtv
+# TOTAL: 597
+
+payload:
+  - IP-CIDR,123.51.231.132/32,no-resolve
+  - IP-CIDR,60.250.121.103/32,no-resolve
+  - IP-CIDR,13.112.0.0/14,no-resolve
