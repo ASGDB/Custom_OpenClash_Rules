@@ -67,6 +67,8 @@ payload:
   - DOMAIN-SUFFIX,n150.asia
   - DOMAIN-SUFFIX,miorina.com
   - DOMAIN-SUFFIX,fastcdn.dpdns.org
+  - DOMAIN-SUFFIX,cf.aixj.de
+  - DOMAIN-SUFFIX,yusen.cyou
   - DOMAIN-SUFFIX,freestream.startspoint.com
   - DOMAIN-SUFFIX,stream-1.sadchicktv.com
   - DOMAIN-SUFFIX,speedtest-peppapig.apple-cdn.net
