@@ -33,10 +33,8 @@
 @@||*.wpscdn.cn^$important
 @@||*.wpscdn.com^$important
 @@||*.xhscdn.com^$important
-! 华为/验证码
-@@||*.huawei.com^$important
-@@||*.dbankcdn.cn^^$important
-@@||*.in.applicationinsights.azure.com^^$important
+! 华为/vivo/验证码
+@@||kernelapi.vivo.com.cn^$important
 ! ---------- [2. 关键词抑制：广谱拦截 PCDN 厂商] ----------
 ||*pcdn*^
 ||*mcdn*^
