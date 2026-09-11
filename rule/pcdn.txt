@@ -33,10 +33,11 @@
 @@||*.wpscdn.cn^$important
 @@||*.wpscdn.com^$important
 @@||*.xhscdn.com^$important
-! 华为/vivo/验证码
+! 华为/vivo/验证码/豆瓣/移动
 @@||cdnhwc2.com^$important
 @@||cdnhwclrd102.cn^$important
 @@||unicomcdn.com.cn^$important
+@@||trpcdn.net^$important
 ! ---------- [2. 关键词抑制：广谱拦截 PCDN 厂商] ----------
 ||*pcdn*^
 ||*mcdn*^
