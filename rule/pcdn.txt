@@ -15,6 +15,7 @@
 @@||jd.com^$important
 @@||360buyimg*^$important
 @@||*meituan.net^$important
+@@||*liteappcdn*^$important
 ! 腾讯/微信核心 (防止图片加载失败)
 @@||gtimg.com^$important
 @@||qpic.cn^$important
@@ -36,8 +37,8 @@
 ! 华为/vivo/验证码/豆瓣/移动
 @@||cdnhwc2.com^$important
 @@||cdnhwclrd102.cn^$important
-@@||unicomcdn.com.cn^$important
-@@||trpcdn.net^$important
+@@||*unicomcdn*^$important
+@@||*trpcdn*^$important
 ! ---------- [2. 关键词抑制：广谱拦截 PCDN 厂商] ----------
 ||*pcdn*^
 ||*mcdn*^
