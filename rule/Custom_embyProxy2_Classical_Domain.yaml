@@ -71,6 +71,7 @@ payload:
   - DOMAIN-SUFFIX,inemby.us.ci
   - DOMAIN-SUFFIX,us.gxwplay.com
   - DOMAIN-SUFFIX,proxy-us.gxwplay.com
+  - DOMAIN-SUFFIX,eu-proxy.gxwplay.com
   - DOMAIN-SUFFIX,taotu.ink
   - DOMAIN-SUFFIX,111848.xyz
   - DOMAIN-SUFFIX,111660.xyz
